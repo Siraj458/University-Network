@@ -10,12 +10,13 @@
 
 ## Task completed doing this project:
 Creating a network topology using Cisco Packet Tracer. <br>
-Hierarchical Network Design.
-Connecting Networking devices with Correct cabling.
-Creating VLANs and assigning ports VLAN numbers.
-Subnetting and IP Addressing.
-Configuring Inter-VLAN Routing (Router on a stick).
-Configuring DHCP Server (Router as the DHCP Server).
-Configuring RIPv2 as the routing protocol.
-Host Device Configurations.
-Test and Verifying Network Communication.
+Hierarchical Network Design. <br>
+Connecting Networking devices with Correct cabling. <br>
+Creating VLANs and assigning ports VLAN numbers. <br>
+Subnetting and IP Addressing. <br>
+Configuring Inter-VLAN Routing (Router on a stick). <br>
+Configuring DHCP Server (Router as the DHCP Server). <br>
+Configuring RIPv2 as the routing protocol. <br>
+Host Device Configurations.  <br>
+Test and Verifying Network Communication.  <br>
+
