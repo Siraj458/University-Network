@@ -9,7 +9,7 @@
 
 
 ## Task completed doing this project:
-Creating a network topology using Cisco Packet Tracer.
+Creating a network topology using Cisco Packet Tracer. <br>
 Hierarchical Network Design.
 Connecting Networking devices with Correct cabling.
 Creating VLANs and assigning ports VLAN numbers.
